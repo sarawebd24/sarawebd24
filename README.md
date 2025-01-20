@@ -1,6 +1,6 @@
 👋💗 Hi, I’m @sarawebd24
 
-- 🌱 I’m currently a web developer student learning C#, Javascript, HTML & CSS
+- 🌱 I’m a web developer student learning C#, Javascript, HTML & CSS
 - 📫 How to reach me saramansberg@hotmail.com
 
 <!---
